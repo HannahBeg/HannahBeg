@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @HannahBeg and it is very nice that you look at my page. At the moment I'm a One Health student at the University of Utrecht. 
+- Hello, I’m @HannahBeg and it is very nice that you look at my page. At the moment I'm a One Health student at the University of Utrecht. 
 - My main interests are entomology 🐞, public health 🧑‍⚕️ and infectious diseases 🦠🦟
 
 <!---
